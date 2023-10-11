@@ -12,10 +12,10 @@
     <div class="container">
     <header class="d-flex justify-content-center py-3">
       <ul class="nav nav-pills">
-        <li class="nav-item"><a href="http://localhost/SEM2/Assignment1/index.php#" class="nav-link active" aria-current="page">Home</a></li>
-        <li class="nav-item"><a href="http://localhost/SEM2/Assignment1/display_data.php#" class="nav-link">View Status</a></li>
-        <li class="nav-item"><a href="http://localhost/SEM2/Assignment1/contactus.php#" class="nav-link">Contact Us</a></li>
-        <li class="nav-item"><a href="http://localhost/SEM2/Assignment1/about.php#" class="nav-link">About</a></li>
+        <li class="nav-item"><a href="./index.php#" class="nav-link active" aria-current="page">Home</a></li>
+        <li class="nav-item"><a href="./display_data.php#" class="nav-link">View Status</a></li>
+        <li class="nav-item"><a href="./contactus.php#" class="nav-link">Contact Us</a></li>
+        <li class="nav-item"><a href="./about.php#" class="nav-link">About</a></li>
       </ul>
     </header>
   </div>

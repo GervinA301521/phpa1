@@ -19,10 +19,10 @@
     </a>
 
     <ul class="nav col-md-4 justify-content-end">
-      <li class="nav-item"><a href="http://localhost/SEM2/Assignment1/index.php#" class="nav-link px-2 text-body-secondary">Home</a></li>
-      <li class="nav-item"><a href="http://localhost/SEM2/Assignment1/display_data.php#" class="nav-link px-2 text-body-secondary">View Status</a></li>
-      <li class="nav-item"><a href="http://localhost/SEM2/Assignment1/contactus.php#" class="nav-link px-2 text-body-secondary">Contact us</a></li>
-      <li class="nav-item"><a href="http://localhost/SEM2/Assignment1/about.php#" class="nav-link px-2 text-body-secondary">About</a></li>
+      <li class="nav-item"><a href="./index.php#" class="nav-link px-2 text-body-secondary">Home</a></li>
+      <li class="nav-item"><a href="./display_data.php#" class="nav-link px-2 text-body-secondary">View Status</a></li>
+      <li class="nav-item"><a href="./contactus.php#" class="nav-link px-2 text-body-secondary">Contact us</a></li>
+      <li class="nav-item"><a href="./about.php#" class="nav-link px-2 text-body-secondary">About</a></li>
     </ul>
   </footer>
 </div>
